@@ -4,5 +4,5 @@ Resolusi 2022
 - belajar AWS dasar
 - belajar linux ubuntu server
 - belajar virtualisasi
-- belajar virtual network di AWS
 - belajar membuat dan mengelola VPN
+- belajar vmware
