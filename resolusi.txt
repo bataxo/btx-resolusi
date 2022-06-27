@@ -3,3 +3,6 @@ Resolusi 2022
 - belajar UI/UX
 - belajar AWS dasar
 - belajar linux ubuntu server
+- belajar virtualisasi
+- belajar virtual network di AWS
+- belajar membuat dan mengelola VPN
